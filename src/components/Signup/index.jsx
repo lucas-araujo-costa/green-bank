@@ -8,7 +8,7 @@ const Signup = () => {
             <FormWrap>
                 <Icon to='/'>GreenBank</Icon>
                 <FormContent>
-                    <Form action='#'>
+                    <Form>
                         <FormH1>Abra sua conta</FormH1>
                         <FormLabel htmlFor='for'>Email</FormLabel>
                         <FormInput type='email' required />
