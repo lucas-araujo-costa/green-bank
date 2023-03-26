@@ -14,7 +14,7 @@ const Signup = () => {
                         <FormInput type='email' required />
                         <FormLabel htmlFor='for'>Senha</FormLabel>
                         <FormInput type='password' required />
-                        <FormButton type='submit'>Continar</FormButton>
+                        <FormButton type='button'>Continar</FormButton>
                         <Text>Já possui conta? <LinkText to='/signin'>Entrar</LinkText></Text>
                     </Form>
                 </FormContent>
