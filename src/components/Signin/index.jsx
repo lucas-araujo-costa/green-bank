@@ -8,13 +8,13 @@ const Signin = () => {
             <FormWrap>
                 <Icon to='/'>GreenBank</Icon>
                 <FormContent>
-                    <Form action='#'>
+                    <Form>
                         <FormH1>Entre na sua conta</FormH1>
                         <FormLabel htmlFor='for'>Email</FormLabel>
                         <FormInput type='email' required />
                         <FormLabel htmlFor='for'>Senha</FormLabel>
                         <FormInput type='password' required />
-                        <FormButton type='submit'>Continar</FormButton>
+                        <FormButton type='button'>Continar</FormButton>
                         <Text>Esqueceu sua senha? <LinkText to='/forgotpassword'>Recuperar Senha</LinkText></Text>
                         <Text>Não possui conta? <LinkText to='/signup'>Abrir conta</LinkText></Text>
                     </Form>
