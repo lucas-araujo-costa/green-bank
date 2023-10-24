@@ -6,8 +6,10 @@
 </p>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="https://i.imgur.com/NF9NfKy.png" width="100%">
+  <img alt="projeto GreenBank" src="https://i.imgur.com/NF9NfKy.png" width="100%">
 </p>
+
+<br>
 
 ## Projeto
 
